@@ -1,2 +1,2 @@
 # equilibriovirtuoso
-Series estadísticas para una posible nota sobre el equilibrio virtuoso de la socieda de consumo en Chile
+Series estadísticas para nota sobre el equilibrio virtuoso de la sociedad de consumo en Chile
